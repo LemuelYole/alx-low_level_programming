@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-	char low, e, q:
+	char low, e, q;
 
 		e = 'e';
 	q = 'q';
@@ -22,5 +22,4 @@ int main(void)
 	printf("\n");
 
 	return (0);
-i
-i}
+}
