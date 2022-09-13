@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time>
+#include <time.h>
 
 /**
  * main - Entry point
@@ -22,4 +22,5 @@ int main(void)
 	printf("\n");
 
 	return (0);
-}
+i
+i}
