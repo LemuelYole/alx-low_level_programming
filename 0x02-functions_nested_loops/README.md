@@ -1,1 +1,1 @@
- a function that prints every minute of the day of Jack Bauer
+a function that prints every minute of the day of Jack Bauer
