@@ -5,7 +5,7 @@
  * @n: is the int that will be used for the argument of the function
  * Return: 0
  */
-int pritn_sign(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
