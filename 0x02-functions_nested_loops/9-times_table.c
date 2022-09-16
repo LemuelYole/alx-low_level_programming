@@ -22,10 +22,11 @@ void times_table(void)
 
 			if ((d / 10) > 0)
 			{
+			
 				_putchar((d / 10) + '0');
 			}
 
 			else
 			{
 				_putchar(' ');
-			}
+}
