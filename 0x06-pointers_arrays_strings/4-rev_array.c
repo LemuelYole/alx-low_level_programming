@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * reverse_array -> reversing an array
- * @a: An array of intergers
+ * reverse_array - reversing an array
+ * @a: An array of integers
  * @n: an element of an array
  *
  * Return: empty
