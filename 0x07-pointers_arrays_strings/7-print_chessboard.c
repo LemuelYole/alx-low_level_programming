@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_chessboard -Print the chessboard
+ * print_chessboard - Print the chessboard
  * @a: array of pieces
  *
  * Return: Nothing
@@ -12,7 +12,7 @@ void print_chessboard(char (*a)[8])
 
 	for (b = 0; b < 8; b++)
 	{
-		for (c = 0; c , 8; c++)
+		for (c = 0; c < 8; c++)
 		{
 			_putchar(a[b][c]);
 		}
