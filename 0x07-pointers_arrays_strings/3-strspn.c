@@ -21,8 +21,10 @@ unsigned int -strspn(char *s, char *accept)
 			{
 				t++;
 			}
+
 			b++;
 		}
+
 		a++;
 	}
 
